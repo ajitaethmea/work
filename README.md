@@ -13,3 +13,7 @@ src/main/java : has packages containing drivers, page objects, base class, prope
 
 src/test/java : has package containing classes for test execution
 
+Test Result:
+- able to create new user account with entered details
+- the expected conditions mentioned in the assignment are not meeting with actual conditions
+- dashboard page is not displayed after submittion
